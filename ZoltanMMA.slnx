@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ZoltanMMA.Domain/ZoltanMMA.Domain.csproj" />
+  <Project Path="ZoltanMMA.Infrastructure/ZoltanMMA.Infrastructure.csproj" Id="189bbadd-058f-4386-a262-d57011c079c2" />
+</Solution>
