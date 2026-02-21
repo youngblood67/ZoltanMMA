@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ZoltanMMA.Domain\ZoltanMMA.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ReadModels\Fights\" />
+    <Folder Include="ReadModels\Statistics\" />
+    <Folder Include="UseCases\Fighters\" />
+    <Folder Include="UseCases\Fights\" />
+    <Folder Include="UseCases\Predictions\" />
+    <Folder Include="UseCases\Statistics\" />
+  </ItemGroup>
+
+</Project>

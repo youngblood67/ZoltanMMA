@@ -15,4 +15,12 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="10.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ZoltanMMA.Application\ZoltanMMA.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ExternalApis\ApiSportsMma\Mappers\" />
+  </ItemGroup>
+
 </Project>

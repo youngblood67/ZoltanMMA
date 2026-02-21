@@ -1,4 +1,8 @@
 <Solution>
-  <Project Path="ZoltanMMA.Domain/ZoltanMMA.Domain.csproj" />
-  <Project Path="ZoltanMMA.Infrastructure/ZoltanMMA.Infrastructure.csproj" Id="189bbadd-058f-4386-a262-d57011c079c2" />
+  <Folder Name="/src/">
+    <Project Path="src/ZoltanMMA.Application/ZoltanMMA.Application.csproj" Id="40d09cd2-84a5-44a1-988d-1f2890964fe9" />
+    <Project Path="src/ZoltanMMA.Domain/ZoltanMMA.Domain.csproj" />
+    <Project Path="src/ZoltanMMA.Infrastructure/ZoltanMMA.Infrastructure.csproj" Id="189bbadd-058f-4386-a262-d57011c079c2" />
+  </Folder>
+  <Folder Name="/tools/" />
 </Solution>
