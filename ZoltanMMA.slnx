@@ -5,4 +5,8 @@
     <Project Path="src/ZoltanMMA.Infrastructure/ZoltanMMA.Infrastructure.csproj" Id="189bbadd-058f-4386-a262-d57011c079c2" />
   </Folder>
   <Folder Name="/tools/" />
+  <Folder Name="/tools/StructureAnalyzer/">
+    <Project Path="tools/StructureAnalyzer/StructureAnalyzer.Cli/StructureAnalyzer.Cli.csproj" Id="0a68bae6-8f24-4d53-bdb6-274930a31e5e" />
+    <Project Path="tools/StructureAnalyzer/StructureAnalyzer.Core/StructureAnalyzer.Core.csproj" />
+  </Folder>
 </Solution>

@@ -19,8 +19,4 @@
     <ProjectReference Include="..\ZoltanMMA.Application\ZoltanMMA.Application.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="ExternalApis\ApiSportsMma\Mappers\" />
-  </ItemGroup>
-
 </Project>
